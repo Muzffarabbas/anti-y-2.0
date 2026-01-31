@@ -1,0 +1,8 @@
+{
+  "name": "FocusStream",
+  "description": "A high-utility content discovery platform designed to eliminate distractions and deliver verified, high-value information in Education, Business, Politics, and Science.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
